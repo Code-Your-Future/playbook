@@ -2,7 +2,6 @@
 Material which should make easier to create and run sessions.
 If you find something else useful, please add it here.
 
-
 ## Suggestion on the time structure
 From previous sessions we found a good mix of different activities in the class that work well.
 
@@ -13,9 +12,9 @@ From previous sessions we found a good mix of different activities in the class 
 - Lunch (30 min)
 - Group discussion (what is clear what not) - assignment explanation - ~30mins
 
-## Operations Tips
+## Tips
+- Give students material about the topic in the next session to read in advance
 - Let students download material required for the class in advance.
-
 
 ## Resources
 
