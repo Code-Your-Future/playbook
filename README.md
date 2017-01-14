@@ -7,11 +7,11 @@ The course is thought over 6 months with the aim to make somebody with no progra
  
 | / | Name  | Description | Source | 
 | --- | ---------- | --- | ------ |
-| 1 | HTML-CSS | introduction to web development and getting basic understanding of HTML and CSS. | [https://github.com/Code-Your-Future/html-css](https://github.com/Code-Your-Future/html-css) |
-| 2 | JavaScript-module1 | introducing fundamentals of programming: variables, types, loops, conditions, etc. Command and GitHub is introduced.| TBD
-| 3 | JavaScript-module2 |  DOM manipulation and events, scope, algorithms  | [https://github.com/Code-Your-Future/javascript-module2](https://github.com/Code-Your-Future/javascript-module2) |
-| 4 | JavaScript-module3 | API, programming games | [https://github.com/Code-Your-Future/javascript-module3](https://github.com/Code-Your-Future/javascript-module3) |
-| 5 | React I |  | [https://github.com/Code-Your-Future/react-module](https://github.com/Code-Your-Future/react-module)
+| 1 | HTML-CSS | introduction to web development and getting basic understanding of HTML and CSS. | [html-css](https://github.com/Code-Your-Future/html-css) |
+| 2 | JavaScript-module1 | introducing fundamentals of programming: variables, types, loops, conditions, etc. Command and GitHub is introduced.| [javascript-module1](https://github.com/Code-Your-Future/javascript-)
+| 3 | JavaScript-module2 |  DOM manipulation and events, scope, algorithms  | [javascript-module2](https://github.com/Code-Your-Future/javascript-module2) |
+| 4 | JavaScript-module3 | API, programming games | [javascript-module3](https://github.com/Code-Your-Future/javascript-module3) |
+| 5 | React|  | [react-module](https://github.com/Code-Your-Future/react-module)
 | 6 | Node | 
 | 7 | Databases | 
 
